@@ -70,6 +70,8 @@ console.log(gabunga);
 
 // 7
 const fruits:any[]=["Banana", "Orange", "Apple", "Mango"];
+fruits.toString()
+console.log(fruits);
 // 8
 let animals2:any[] = ["lion", "elephant", "squirrel ", "eagle", "zebra", "tiger"]
 animals2.splice(2,3,4)
